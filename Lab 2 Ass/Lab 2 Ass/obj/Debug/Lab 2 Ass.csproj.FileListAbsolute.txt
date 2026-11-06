@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Lab 2 Ass\Lab 2 Ass\bin\Debug\Lab 2 Ass.exe.config
+C:\Users\user\source\repos\Lab 2 Ass\Lab 2 Ass\bin\Debug\Lab 2 Ass.exe
+C:\Users\user\source\repos\Lab 2 Ass\Lab 2 Ass\bin\Debug\Lab 2 Ass.pdb
+C:\Users\user\source\repos\Lab 2 Ass\Lab 2 Ass\obj\Debug\Lab 2 Ass.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lab 2 Ass\Lab 2 Ass\obj\Debug\Lab_2_Ass.Form_login.resources
+C:\Users\user\source\repos\Lab 2 Ass\Lab 2 Ass\obj\Debug\Lab_2_Ass.Form_biycle.resources
+C:\Users\user\source\repos\Lab 2 Ass\Lab 2 Ass\obj\Debug\Lab_2_Ass.Form_choose.resources
+C:\Users\user\source\repos\Lab 2 Ass\Lab 2 Ass\obj\Debug\Lab_2_Ass.Form_Mushroom.resources
+C:\Users\user\source\repos\Lab 2 Ass\Lab 2 Ass\obj\Debug\Lab_2_Ass.Mushroom_Identification.resources
+C:\Users\user\source\repos\Lab 2 Ass\Lab 2 Ass\obj\Debug\Lab_2_Ass.Properties.Resources.resources
+C:\Users\user\source\repos\Lab 2 Ass\Lab 2 Ass\obj\Debug\Lab 2 Ass.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Lab 2 Ass\Lab 2 Ass\obj\Debug\Lab 2 Ass.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab 2 Ass\Lab 2 Ass\obj\Debug\Lab 2 Ass.exe
+C:\Users\user\source\repos\Lab 2 Ass\Lab 2 Ass\obj\Debug\Lab 2 Ass.pdb
